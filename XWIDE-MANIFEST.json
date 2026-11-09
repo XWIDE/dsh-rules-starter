@@ -1,0 +1,27 @@
+{
+  "fromSnapshot": "snap-20261109T153331",
+  "markedAt": "2026-11-09T15:33:55.322Z",
+  "stamp": "20261109T153403",
+  "files": {
+    "公开样板/卡点卡.md": {
+      "bytes": 1078,
+      "sha": "1e5a728cd6411aa0c9445aa1754e1d7c21ee1a488592104be015f91360017fe4",
+      "abs": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\local-plugins\\dsh-xwide-thought-chain\\data\\rules-private\\公开样板\\卡点卡.md"
+    },
+    "公开样板/排障方法卡.md": {
+      "bytes": 7210,
+      "sha": "3d93e0c16c037bcf2e3c89888ccfdc0b9d9ceab20d515786926952c13b8a13ec",
+      "abs": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\local-plugins\\dsh-xwide-thought-chain\\data\\rules-private\\公开样板\\排障方法卡.md"
+    },
+    "公开样板/短卡-开工前必读.md": {
+      "bytes": 1434,
+      "sha": "99cfdd54bc9bafa8470800777ee4d7356fcda6b40b5909e8c6e01f6a03da84ab",
+      "abs": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\local-plugins\\dsh-xwide-thought-chain\\data\\rules-private\\公开样板\\短卡-开工前必读.md"
+    },
+    "公开样板/防修坏-护栏.md": {
+      "bytes": 3852,
+      "sha": "c788063c39c822433146a178e44f2b8e18569271d47a7b1ebe8cb3a74e4601a7",
+      "abs": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\local-plugins\\dsh-xwide-thought-chain\\data\\rules-private\\公开样板\\防修坏-护栏.md"
+    }
+  }
+}
